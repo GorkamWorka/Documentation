@@ -1,16 +1,16 @@
 ## Priority R&D for cloud native tech and DevOps solution.
 
-This is a compiled list of interesting tools and object, coming from CNCF Landscape maps. It is made as a reference desk of interesting technolohies and opportunities for cloud tech and infrastructure development.  
+This is a compiled list of interesting tools and object, coming from CNCF Landscape maps. It is made as a reference desk of interesting technologies and opportunities for cloud tech and infrastructure development.  
 
-Each Section represente a category of software, estimated Value of the section (personnal assesment) given in a 0-5 stars rating.  
-Each list is ordonated by software predominance (again personnal assesment) and usability.  
-Explaination and selectino critera given on case by case basis. 
+Each Section represents a category of software, estimated Value of the section (personnal assesment) given in a 0-5 stars rating.  
+Each list is ordinated by software predominance (again personnal assesment) and usability.  
+Explaination and selection critera given on case by case basis. 
 ~ denote priority target (p.a. again)
 
 ### Cloud provider ***--
 
 - [Digital Ocean](https://www.digitalocean.com): _already a provider, simple and efficient_
-- [GKE](https://cloud.google.com/): _Major daomin actor and the most advanced techno_
+- [GKE](https://cloud.google.com/): _Major domain actor and the most advanced techno_
 - [Azure](https://azure.microsoft.com/en-us/): _Microsoft, visual studio integration_
 
 [ AWS is voluntarly ommited due to it being heavilly proprietary and non standard in lots of aspect. Basicly its either AWS or everything else on this page.]
